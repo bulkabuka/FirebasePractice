@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787374866498",
+    "project_id": "test-6829b",
+    "storage_bucket": "test-6829b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787374866498:android:37024c8b68216e07e76ddb",
+        "android_client_info": {
+          "package_name": "org.leftbrained.firebasepractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD0zTBpI-OXxBtW3iH6SpMFYB5jv5fIbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
